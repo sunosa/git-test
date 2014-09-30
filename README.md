@@ -1,4 +1,5 @@
 git-test
 ========
 
-A git test repository.
+ A git test repository.
+first commit !
